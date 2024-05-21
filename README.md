@@ -12,7 +12,7 @@ This repository contains a collection of various MATLAB projects demonstrating d
 - **Files**: 
   - `FourierTransform.m`
   - `README.md`
-  - Images in the `images` folder
+ 
 
 ## Getting Started
 
